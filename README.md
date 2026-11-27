@@ -309,4 +309,4 @@ sudo systemctl disable wifi-powersave
 
 ## 许可证
 
-本项目仅供学习和研究使用。请遵守相关API的使用条款和隐私政策。 
+本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE) 许可证。仅供非商业用途，包括学习、研究和个人使用。请遵守相关API的使用条款和隐私政策。 
